@@ -1,7 +1,7 @@
 <template>
   <div class="button">
-    <button @click="addOne">点我+1</button>
-    <button @click="subOne">点我-1</button>
+    <button @click="addOne">点我加1</button>
+    <button @click="subOne">点我减1</button>
   </div>
 </template>
 
